@@ -7,16 +7,16 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms, Full Stack Web Development**
 
-- 📫 How to reach me **peeyushraj.sahil@gmail.com**
+- 📫 How to reach me **peeyushraj.workspace@gmail.com**
 
-- ⚡ So basically **I am Content Creator who is trying to create my life motivate others to create theirs**
+- ⚡ So basically **I am Content Creator who is trying to create my life that motivate others to create theirs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/blacklistedsays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blacklistedsays" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/its-peeyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its-peeyush" height="30" width="40" /></a>
+<a href="https://twitter.com/TBS__tweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TBS__tweets" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/peeyush-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peeyush-raj" height="30" width="40" /></a>
 <a href="https://instagram.com/the.blacklisted.soul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.blacklisted.soul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/blacklistedsays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blacklistedsays" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/TheBlacklistedSouL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TheBlacklistedSouL" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/its-peeyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its-peeyush" height="30" width="40" /></a>
 </p>
 
