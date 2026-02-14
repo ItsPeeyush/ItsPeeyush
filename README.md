@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Peeyush Raj</h1>
+<h1 align="center">Hi 👋, I'm The Blacklisted SouL</h1>
 <h3 align="center">A passionate Learner, Developer, Hustler from India</h3>
 
 - 🌱 I’m currently learning **Data Structure & Algorithms in JAVA & MERN Full Stack Web Development**
 
-- 📫 How to reach me **peeyushraj.workspace@gmail.com**
+- 📫 How to reach me **peeyushraj.dev@gmail.com**
 
 - ⚡ So basically **I am Content Creator who is trying to create my life motivate others to create theirs**
 
